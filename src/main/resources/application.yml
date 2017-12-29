@@ -1,0 +1,4 @@
+MONGO_URL: mongodb://dan:changeme@192.168.99.100:32770
+spring:
+  profiles:
+    active: default
